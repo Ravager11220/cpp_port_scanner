@@ -1,4 +1,7 @@
 # cpp_port_scanner
 a port scanner written in cpp.
 
-still very basic, and ports and ip address are hardcoded, this will be updated ans multithreading will also bw implemented
+Seperately filed a basic single threaded port scanner and a 
+Multithreaded(2-threaded) port scanner.
+
+will probably improve in future.
